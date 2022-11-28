@@ -21,7 +21,7 @@
 Projeto de um jogo virtual com mudança de valores em tempo real utilizando a manipulação do DOM por meio de JavaScript.
 </p>
 
-[🔗 É possível acessar o projeto clicando aqui! 🤖](https://robotron2000-peach.vercel.app/)
+[🔗 É possível acessar o projeto clicando aqui 🤖](https://robotron2000-peach.vercel.app/)
 
 ## 🚀 Tecnologias
 
