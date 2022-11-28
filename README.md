@@ -1,7 +1,7 @@
-﻿<h1 align="center"> Robotrom 2000 </h1>
+﻿<h1 align="center"> Robotron 2000 </h1>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/preview.png" width="70%">
+  <img alt="robotron 2000" src=".github/preview.png" width="70%">
 </p>
 
 <p align="center">
