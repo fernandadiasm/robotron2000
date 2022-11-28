@@ -1,7 +1,7 @@
 :root {
     --main-cinza: #CCCCCC;
     --main-branco: #FFFFFF;
-    --main-preto: #000000;
+    --main-preto: #23252B;
 }
 
 * {
@@ -80,7 +80,7 @@ main {
 }
 
 .peca {
-    padding: 1em 0;
+    padding: 2em 0;
 }
 
 .peca-titulo {
@@ -153,7 +153,7 @@ main {
 /****************************** Estatísticas *****/
 .estatisticas {
     flex-basis: 23%;
-    padding: 2em 2em 0;
+    padding: 4em 4em 0;
 }
 
 .estatistica {
